@@ -2,12 +2,6 @@
 
 A simple grocery list app using React Native, Redux, Firebase, and Async Storage for offline data. It works on both iOS and Android.
 
-[![Code Climate](https://codeclimate.com/github/bruz/react-native-redux-groceries/badges/gpa.svg)](https://codeclimate.com/github/bruz/react-native-redux-groceries)
-[![Dependency Status](https://david-dm.org/bruz/react-native-redux-groceries.svg)](https://david-dm.org/bruz/react-native-redux-groceries)
-[![MIT License](https://img.shields.io/github/license/bruz/react-native-redux-groceries.svg)](https://github.com/bruz/react-native-redux-groceries/blob/master/LICENSE)
-
-![demo](demo.gif)
-
 ## Install
 
 Built and tested with:
@@ -22,7 +16,7 @@ A [Firebase](https://www.firebase.com) account is also needed.
 Run:
 
 ```bash
-git clone https://github.com/bruz/react-native-redux-groceries.git groceries
+git clone https://github.com/pairshaped/react-native-redux-groceries.git groceries
 cd groceries
 npm install
 ```
@@ -79,7 +73,7 @@ To get back to development mode, just undo these changes.
 
 ## Build and install on an Android device
 
-It hasn't been testing with this app, but the [React Native APK signing instructions](https://facebook.github.io/react-native/docs/signed-apk-android.html) may work.
+[React Native APK signing instructions](https://facebook.github.io/react-native/docs/signed-apk-android.html)
 
 ## Credits
 
