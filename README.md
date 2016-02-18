@@ -7,7 +7,7 @@ A simple grocery list app using React Native, Redux, Firebase, and Async Storage
 Built and tested with:
 
 * OSX
-* Node 4.2.3 **with npm 3**
+* Node 5.4.1
 * Xcode 7
 * Android SDK
 
