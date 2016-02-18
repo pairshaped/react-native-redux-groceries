@@ -2,6 +2,9 @@
 
 A simple grocery list app using React Native, Redux, Firebase, and Async Storage for offline data. It works on both iOS and Android.
 
+
+![Demo](demo.gif?raw=true "Demo")
+
 ## Install
 
 Built and tested with:
